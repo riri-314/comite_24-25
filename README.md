@@ -1,5 +1,9 @@
 # comite_24-25
-Super secret website for comité_24-25
+A super-secret website for Comité 24-25.
+
+Members (comitards) of MDS 2024–2025 have a QR code printed on the back of their polo, linking directly to their personal secret profile page.
+
+Built for fun, designed for efficiency — and surprisingly addictive.
 
 # Requirement
 python >= 3.10
@@ -19,11 +23,6 @@ Work exactly like in local.
 
 To update a file (e.g. app.py). Go to the "files" tab, locate "app.py" upload the new app.py file. Go to the "web" tab, click on reload website. Done
 
-Username: quinzaine
-
-Password: quiqui123
-
-Addresse: https://www.pythonanywhere.com/login/?next=/login/
 
 # Files
 1. app.py, the main python file with the flask server
